@@ -142,13 +142,9 @@ imagica.html
 
 
 ## OUTPUT
-
-c:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-04-30 115148.png
-
-c:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-04-30 115134.png
-
-c:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-04-30 115118.png
-
+![alt text](<Screenshot 2025-04-30 115148.png>)
+![alt text](<Screenshot 2025-04-30 115134 - Copy.png>)
+![alt text](<Screenshot 2025-04-30 115118.png>)
 
 
 
